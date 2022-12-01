@@ -22,8 +22,8 @@
 }
 
 * {
-      font-family: var(--font) !important
+      font-family: var(--font)
 }
 *:before, *:after {
-      font-family: var(--font) !important
+      font-family: var(--font)
 }
