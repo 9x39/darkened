@@ -1,5 +1,4 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
-@import url('https://fonts.cdnfonts.com/css/whitney-2?styles=68526');
 
 :root {
   --accentcolor: 114,137,218;
@@ -12,7 +11,7 @@
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
-  --font: Whitney;
+  --font: Uni Sans;
   --backgroundaccent: 50,50,50;
   --backgroundprimary: 30,30,30;
   --backgroundsecondary: 20,20,20;
