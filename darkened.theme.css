@@ -21,9 +21,9 @@
   --settingsicons: 0;
 }
 
-{
-      font-family: var(--font) !important;
+* {
+      font-family: var(--Font) !important;
 }
 *:before, *:after {
-      font-family: var(--font) !important;
+      font-family: var(--Font) !important;
 }
