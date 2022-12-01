@@ -21,7 +21,7 @@
   --settingsicons: 0;
 }
 
-* {
+{
       font-family: var(--font) !important;
 }
 *:before, *:after {
