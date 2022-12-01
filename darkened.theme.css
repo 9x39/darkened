@@ -1,4 +1,18 @@
-@import url('https://raw.githubusercontent.com/9x39/discordrecolor/master/Themes/DiscordRecolor/DiscordRecolor.css');
+/**
+ * @name darkened
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
   --accentcolor: 114,137,218;
@@ -11,6 +25,7 @@
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
+  --font: Whitney;
   --backgroundaccent: 50,50,50;
   --backgroundprimary: 30,30,30;
   --backgroundsecondary: 20,20,20;
@@ -19,3 +34,7 @@
   --backgroundfloating: 0,0,0;
   --settingsicons: 0;
 }
+
+/* Any custom CSS below here */
+
+
