@@ -20,3 +20,7 @@
   --backgroundfloating: 0,0,0;
   --settingsicons: 0;
 }
+
+* {
+  font-family: var(--font) !important
+}
