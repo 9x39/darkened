@@ -11,7 +11,7 @@
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
-  --font: 'Uni Sans Thin';
+  --font: Uni Sans Heavy;
   --backgroundaccent: 50,50,50;
   --backgroundprimary: 30,30,30;
   --backgroundsecondary: 20,20,20;
@@ -19,9 +19,4 @@
   --backgroundtertiary: 10,10,10;
   --backgroundfloating: 0,0,0;
   --settingsicons: 0;
-}
-
-}
-:not([class="hljs"]):not(code){
-font: var(--font)!important;
 }
