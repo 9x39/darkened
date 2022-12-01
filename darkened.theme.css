@@ -23,5 +23,5 @@
 
 }
 :not([class="hljs"]):not(code){
-font-family: var(--font)!important;
+font: var(--font)!important;
 }
