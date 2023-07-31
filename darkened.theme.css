@@ -20,9 +20,3 @@
   --backgroundfloating: 20,20,18;
   --settingsicons: 0;
 }
-
-/* Any custom CSS below here */
-
-:root {
-  font-size: 15px !important;
-}
