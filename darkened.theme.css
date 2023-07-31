@@ -12,12 +12,12 @@
   --textdarker: 180,180,170;
   --textdarkest: 120,120,110;
   /*--font: whitney;*/
-  --backgroundaccent: 53,47,38;
-  --backgroundprimary: 8,8,8;
+  --backgroundaccent: 20,20,18;
+  --backgroundprimary: 10,10,8;
   --backgroundsecondary: 237,230,204;
   --backgroundsecondaryalt: 237,230,204;
-  --backgroundtertiary: 8,6,5;
-  --backgroundfloating: 12,11,11;
+  --backgroundtertiary: 10,10,8;
+  --backgroundfloating: 10,10,8;
   --settingsicons: 0;
 }
 
