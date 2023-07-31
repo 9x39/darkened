@@ -5,17 +5,17 @@
   --accentcolor2: 182,147,60;
   --linkcolor: 172,143,108;
   --mentioncolor: 206,159,81;
-  --textbrightest: 255,243,226;
-  --textbrighter: 223,211,189;
+  --textbrightest: 50,50,50;
+  --textbrighter: 237,230,204;
   --textbright: 179,169,144;
-  --textdark: 151,135,108;
-  --textdarker: 99,91,69;
-  --textdarkest: 79,69,50;
+  --textdark: 40,40,40;
+  --textdarker: 180,180,170;
+  --textdarkest: 120,120,110;
   /*--font: whitney;*/
   --backgroundaccent: 53,47,38;
-  --backgroundprimary: 18,16,12;
+  --backgroundprimary: 8,8,8;
   --backgroundsecondary: 14,13,10;
-  --backgroundsecondaryalt: 20,18,13;
+  --backgroundsecondaryalt: 237,230,204;
   --backgroundtertiary: 8,6,5;
   --backgroundfloating: 12,11,11;
   --settingsicons: 0;
