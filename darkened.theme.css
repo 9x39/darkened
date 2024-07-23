@@ -12,11 +12,11 @@
   --textdarker: 140,140,130;
   --textdarkest: 90,90,80;
   
-  --backgroundaccent: 16,16,14;
-  --backgroundprimary: 10,10,8;
-  --backgroundsecondary: 10,10,8;
-  --backgroundsecondaryalt: 16,16,14;
-  --backgroundtertiary: 16,16,14;
-  --backgroundfloating: 20,20,18;
+  --backgroundaccent: 12,12,10;
+  --backgroundprimary: 8,8,6;
+  --backgroundsecondary: 8,8,6;
+  --backgroundsecondaryalt: 12,12,10;
+  --backgroundtertiary: 12,12,10;
+  --backgroundfloating: 16,16,14;
   --settingsicons: 0;
 }
